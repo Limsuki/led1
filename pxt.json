@@ -1,5 +1,5 @@
 {
-    "name": "led",
+    "name": "led2",
     "description": "",
     "dependencies": {
         "core": "*",
